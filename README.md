@@ -7,5 +7,6 @@
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Creación de la primer aplicación para WearOs "Hola Mundo"</h3>
+  <h5 align="center">Se creó una aplicación para WearOs la cual solo muestra un texto en la pantalla</h5>
   <h3 align="center">Fecha de entrega: 17/Mayo/2023</h3>
 </P>
